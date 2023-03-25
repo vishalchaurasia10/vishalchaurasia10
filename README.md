@@ -1,8 +1,8 @@
-![MasterHead](./github_banner.gif)
+<!-- ![MasterHead](./github_banner.gif) -->
 <h1 align="center">Hi 👋, I'm Vishal Chaurasia</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <p align="center">
-<img alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/34e69eb61a7bd8dea1c957a8b82605a7.gif"/>
+<!-- <img alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/34e69eb61a7bd8dea1c957a8b82605a7.gif"/> -->
 <p/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalchaurasia10&label=Profile%20views&color=0e75b6&style=flat" alt="vishalchaurasia10" /> </p>
